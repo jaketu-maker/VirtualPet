@@ -3,6 +3,7 @@ void setup(){
   size(400,400);
 }
 void draw(){
+fill(255,255,255);
 ellipse(220,160,20,80);
 ellipse(180,160,20,80); 
 ellipse(230,240,80,20); 
